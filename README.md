@@ -9,7 +9,6 @@ To write a program to perform selection sort and insertion sort using python pro
 using def selection_sort(nums) ,we start the program
 # step2:
 using for loop and if condition we will continue the program
-
 # step3:
 giving input for list of nums
 # step4:
