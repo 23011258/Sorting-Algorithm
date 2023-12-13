@@ -14,7 +14,7 @@ giving input for list of nums
 # step4:
 sorting out the list of nums
 # step5:
-printing the list of nums
+print the list of nums
 
 ## Selection Sort Algorithm:
 1.	Set the first unsorted element as the minimum
